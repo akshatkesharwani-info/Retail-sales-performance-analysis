@@ -1,8 +1,5 @@
 # 🛒 Retail Sales Performance Analysis
 
-**Suggested repo name:** `retail-sales-performance-analysis`
-**Maps to your existing repo:** `retail_sales_analys` — rename it to the name above.
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## Overview
